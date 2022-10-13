@@ -7,7 +7,7 @@ My other name is "The Command Line" - that means I love binary/UNIX/LINUX operat
 - 🌱 I’m currently learning how to move from VMs (AWS EC2) to (EKS Cluster, HELM, ARGO, KAFKA - this seems more scalable). Ping me an email we chat more on this. 
 - 👯 I’m looking to collaborate on creating sustainable developer communities. 
 - Am the current leader at Nairobi AI Community. https://www.meetup.com/nairobiai/
-- 🤔 I’m looking for help with making tec education affordable. 
+- 🤔 I’m looking for help with making tech education affordable. 
 - 💬 Ask me about creating a resilient Backend with AWS, RESTful API, Spring Boot, Scaling with AWS Cloud and anything on distributed computing. 
 - 📫 How to reach me: email: ngangawillie84@gmail.com
 - Let us connect on LinkedIn: https://www.linkedin.com/in/willie-ng-ang-a-macharia-121518102/
