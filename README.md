@@ -15,4 +15,5 @@ My other name is "The Command Line" - that means I love binary/UNIX/LINUX operat
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I just love Cappuccino.
 - I do write too - but non-technical stuffs. 
-- I love nature activities - hiking, exploring nature routes, teaching and good conversations on how humanity can be good for all. 
+- I love nature activities - hiking, exploring nature routes, teaching and good conversations on how humanity can be good for all.
+- Open source contributor at https://github.com/GeeksTalk and https://github.com/UseHover/Stax
