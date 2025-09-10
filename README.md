@@ -2,7 +2,9 @@
 
 My other name is "The Command Line" - that means I love binary/UNIX/LINUX operating systems. 
 
-- 🔭 I’m currently working as software engineer at Electrum Payments - Am part of Engineering Team that has created payment software that processes more than 4B transactions annually. 
+- 🔭 I am currently at UC Berkeley School of Information doing cool stuff with AI. 
+
+- 🔭 I was working as software engineer at Electrum Payments - Am part of Engineering Team that has created payment software that processes more than 4B transactions annually. 
 
 - 🌱 I’m currently learning how to move from VMs (AWS EC2) to (EKS Cluster, HELM, ARGO, KAFKA - this seems more scalable). Ping me an email we chat more on this. 
 - 👯 I’m looking to collaborate on creating sustainable developer communities. 
